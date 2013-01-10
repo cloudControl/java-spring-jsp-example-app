@@ -1,0 +1,6 @@
+target/generated-sources
+target/maven-archiver
+target/surefire
+target/test-classes
+src/
+pom.xml

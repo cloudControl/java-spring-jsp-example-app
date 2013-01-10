@@ -1,0 +1,19 @@
+@import url(http://fonts.googleapis.com/css?family=Titillium+Web:300);
+
+html {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	background: url("/static/bg_noise.jpg") repeat fixed;
+	font-family: 'Titillium Web', sans-serif;
+}
+
+
+body {
+	height: 100%;
+	margin: 0;
+	padding: 1ex;
+	text-align: center;
+	font-size: 300%;
+	background: url("/static/rocket.png") center bottom / auto 75% no-repeat fixed;
+}
