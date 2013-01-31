@@ -6,5 +6,6 @@
 </head>
 <body>
 	<string>Hello World!</strong>
+	<br><small>Visit count: ${count}</small></br>
 </body>
 </html>
